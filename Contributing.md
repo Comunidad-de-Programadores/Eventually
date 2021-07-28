@@ -39,7 +39,7 @@ estos documentos y que sabes que esto es un proyecto Open Source, bajo la licenc
 > 1. Crea tu propia bifurcación del código
 > 2. Haz los cambios en tu bifurcación
 
-*Sección en contrucción*
+*Sección en construcción*
 
 
 ### Vulnerabilidades
@@ -59,7 +59,7 @@ estos documentos y que sabes que esto es un proyecto Open Source, bajo la licenc
 
 ### Proceso de revisión de código
 
->*Sección en contrucción*
+>*Sección en construcción*
 
 
 ### Comunidad
@@ -69,4 +69,4 @@ estos documentos y que sabes que esto es un proyecto Open Source, bajo la licenc
 
 ### Convenciones del proyecto
 
->*Sección en contrucción*
+>*Sección en construcción*
