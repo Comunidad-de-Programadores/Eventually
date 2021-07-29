@@ -27,9 +27,9 @@ $ npm -v
 
 ### Si aún no identificas los conceptos anteriores te invitamos a que consultes algunos videos sobre esto, te recomendamos los siguientes:
 
-- [¿Que rayos es es npm?](https://www.youtube.com/watch?v=4aNA8ZHihFE)
-- [¿Que rayos es es Node.js?](https://www.youtube.com/watch?v=VfwYTbevMPA)
-- [¿Que rayos es es Angular?](https://www.youtube.com/watch?v=0IxXZPJA3mU)
+- [¿Que rayos es npm?](https://www.youtube.com/watch?v=4aNA8ZHihFE)
+- [¿Que rayos es Node.js?](https://www.youtube.com/watch?v=VfwYTbevMPA)
+- [¿Que rayos es Angular?](https://www.youtube.com/watch?v=0IxXZPJA3mU)
 
 ### Si lo que quieres es aprender Angular, te recomendamos este curso:
 
