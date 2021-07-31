@@ -10,7 +10,7 @@ node_js:
   sonarcloud:
     organization: "comunidad-de-programadores"
     token:
-      secure: "travis encrypt 736624a4be88fd1b78c94f49060100518fcd01eb" # encrypted value of your token
+      secure: "736624a4be88fd1b78c94f49060100518fcd01eb" # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
