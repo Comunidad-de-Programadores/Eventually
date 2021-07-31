@@ -1,9 +1,5 @@
-addons:
-  sonarcloud:
-    organization: "comunidad-de-programadores"
-    token:
-      secure: "travis encrypt 15fc6539ae59ec01abcff6f258692341c83602b7" # encrypted value of your token
-
+language: node_js
+node_js: "14"
 script:
-  # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
-  - sonar-scanner
+  - "npm test"
+  - "npm run build"
