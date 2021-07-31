@@ -9,7 +9,7 @@ addons:
   sonarcloud:
     organization: "comunidad-de-programadores"
     token:
-      secure: "**************************" # encrypted value of your token
+      secure: "c10fe3086815e7b6da6cc95dc2dad5f86480522a" # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
