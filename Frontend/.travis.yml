@@ -1,9 +1,4 @@
-addons:
-  sonarcloud:
-    organization: "comunidad-de-programadores"
-    token:
-      secure: "97acb527bed3aa8086c7dcce61aaf101eaee6892" # encrypted value of your token
-
-script:
-  # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
-  - sonar-scanner
+languaje: node_js
+node_js:
+    - 14.16.0.
+    - node
