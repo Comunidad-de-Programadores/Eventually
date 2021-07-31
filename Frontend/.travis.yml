@@ -25,7 +25,3 @@ script:
   - ng build --prod
   - sonar-scanner
 
-  deploy:
-    skip-cleanup: true
-    keep-history: true
-    local-dir: ./Eventually/Frontend/
