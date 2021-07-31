@@ -8,6 +8,10 @@ branches:
 
   addons:
     chrome: stable
+    sonarcloud:
+    organization: "comunidad-de-programadores"
+    token:
+      secure: "$TRAVIS_TOKEN" # encrypted value of your token
 
   before_script:
     - npm install -g @angular/cli
@@ -22,6 +26,5 @@ script:
 
   deploy:
     skip-cleanup: true
-    github-token: $TRAVIS_TOKEN
     keep-history: true
     local-dir: ./Eventually/Frontend/
