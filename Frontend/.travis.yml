@@ -19,3 +19,9 @@ branches:
 
 script:
   - ng build --prod
+
+  deploy:
+    skip-cleanup: true
+    github-token: $TRAVIS_TOKEN
+    keep-history: true
+    local-dir: ./Eventually/Frontend/
