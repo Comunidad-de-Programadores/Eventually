@@ -2,7 +2,7 @@ addons:
   sonarcloud:
     organization: "comunidad-de-programadores"
     token:
-      secure: ${SONAR_KEY} # encrypted value of your token
+      secure: "travis encrypt 15fc6539ae59ec01abcff6f258692341c83602b7" # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
