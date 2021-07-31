@@ -4,4 +4,4 @@ node_js:
 
   cache:
   directories:
-    - ./Frontend/node_modules
+    - node_modules
