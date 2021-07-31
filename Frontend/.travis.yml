@@ -11,7 +11,7 @@ branches:
     sonarcloud:
     organization: "comunidad-de-programadores"
     token:
-      secure: "SONAR_TOKEN" # encrypted value of your token
+      secure: "41de873e38b14970e5ba934d9eeb0bf15d971499" # encrypted value of your token
 
   before_script:
     - npm install -g @angular/cli
